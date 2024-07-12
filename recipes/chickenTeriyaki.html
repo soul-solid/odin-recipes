@@ -4,18 +4,28 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Monoton&family=Bebas+Neue&family=Major+Mono+Display&family=Quicksand:wght@300..700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-    <h1 id="title">Chicken Teriyaki</h1>
-    <img 
-        id="teriyaki-img" 
+    <h1 id="title">
+        <a href="../index.html">Odin Recipes</a>
+    </h1>
+    <hr>
+    <h2 id="recipe-title">Chicken Teriyaki</h2>
+    <div class="wrapper">
+        <img 
+        id="recipe-img" 
         src="recipe-images/teriyaki.jpg" 
         alt="cooked chicken teriyaki"
     />
-    <p id="description">
+    </div>
+    <p id="description" class="text">
         Chicken teriyaki is a popular Japanese dish made with grilled or pan-fried chicken glazed with a savory and sweet teriyaki sauce. The sauce typically consists of soy sauce, mirin, sake, and sugar. Often served over rice and accompanied by vegetables, chicken teriyaki is known for its rich flavor and glossy finish, making it a favorite in Japanese cuisine and beyond.
     </p>
-    <h2 class="header">Ingredients:</h2>
+    <h3 class="header">Ingredients:</h3>
     <ul id="ingredients">
         <li><b>Chicken:</b> 2 pounds boneless chicken thighs.</li>
         <li><b>Onion:</b> 1 bunch green onions finely sliced.</li>
@@ -45,7 +55,7 @@
             </ul>
         </li>
     </ul>
-    <h2 class="header">Steps:</h2>
+    <h3 class="header">Steps:</h3>
     <ol id="steps">
         <li>Combine soy sauce, sake, rice vinegar, and brown sugar in a bowl and whisk well until sugar is dissolved.</li>
         <li>Stir in sesame seeds and crushed red pepper and set aside.</li>

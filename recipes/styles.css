@@ -1,0 +1,89 @@
+:root {
+    --background: black;
+    --background-alt: #0f0e17;
+    --text: #fffffe;
+    --text-alt: #a7a9be;
+    --highlight: #ff8906;
+    --secondary: #f25f4c;
+    --tertiary: #e53170;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--text-alt);
+    color: var(--background);
+    margin-bottom: 60px;
+}
+
+h1 {
+    width: fit-content;
+    margin: 0 auto;
+    font-family: "Monoton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.5em;
+}
+
+h1 a {
+    text-decoration: none;
+    color: var(--background);
+    transition: color .2s ease-in-out;
+}
+
+h1 a:hover {
+    color: var(--text);
+}
+
+hr {
+    border: 2px solid var(--background);
+    width: 100%;
+}
+
+#recipe-title {
+    margin-top: 40px;
+    font-family: "Major Mono Display", monospace;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+#recipe-img {
+    border-radius: 30px;
+    width: 600px;
+    height: 400px;
+    margin: 0;
+}
+
+.text, ul, ol {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h3 {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 22px;
+}
+
+.text a {
+    color: var(--background);
+    text-decoration: none;
+}
+
+.text a:hover {
+    color: var(--text);
+}
+
+#footer-head {
+    margin-bottom: -5px;
+}
