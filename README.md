@@ -10,16 +10,25 @@ Credits
 All credits go to the respective authors who created them in Allrecipes.
 
 [Best Hamburger Ever](https://www.allrecipes.com/recipe/72657/best-hamburger-ever/) - UNIVSTUDENT.
+
 [Butter Chicken (Murgh Makhani)](https://www.allrecipes.com/recipe/246717/indian-butter-chicken-chicken-makhani/) - RFalgout.
+
 [Chicken Teriyaki](https://www.allrecipes.com/chicken-teriyaki-recipe-8641256) - [Nicole McLaughlin](https://www.allrecipes.com/author/nicole-mclaughlin/).
+
 [Oven-Fresh Seasoned Potato Wedges](https://www.allrecipes.com/recipe/199575/oven-fresh-seasoned-potato-wedges/) - Heather Sweet.
+
 [Simple Pasta Salad](https://www.allrecipes.com/recipe/86353/simple-pasta-salad/) - [Allrecipes Test Kitchen](https://www.allrecipes.com/allrecipes-test-kitchen-7553892).
 
 Image Credits
 
 Home background - [The Washington Post](https://www.washingtonpost.com/wellness/2024/05/08/ultraprocessed-junk-food-health-risks/).
+
 Classic Grilled Hamburger - [Victor Protasio](https://www.foodandwine.com/recipes/crispy-comte-cheeseburgers).
+
 Butter Chicken - [Nik Sharma](https://niksharmacooks.com/butter-chicken/).
+
 Chicken Teriyaki - [Chelsea Kyle, Molly Baz](https://www.epicurious.com/recipes/food/views/chicken-teriyaki).
+
 Potato Wedges - [COOKIE+kate](https://cookieandkate.com/crispy-baked-potato-wedges-recipe/).
+
 Pasta Salad - [Half Baked Harvest](https://www.halfbakedharvest.com/street-corn-pasta-salad/).
